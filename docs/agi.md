@@ -13,4 +13,6 @@ modified: 2024-02-6T11:11:11-07:00
     
 ## <a href="https://chat.openai.com/g/g-ntz3gLo81-oh-great-and-powerful-awes" target="_blank">Oh Great and Powerful Awes!</a>
 
-### Because it can't possibly be as simple as <a href="https://metavalent.com/">metavalent stigmergy</a>.
+<iframe src="https://chat.openai.com/g/g-ntz3gLo81-oh-great-and-powerful-awes" height="200" width="300" title="Oh Great and Powerful Awes!"></iframe>
+
+### Oh Great and Powerful Awes! trained on <a href="https://metavalent.com/">all metavalent content since 2004</a>.
