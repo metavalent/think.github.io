@@ -11,7 +11,7 @@ modified: 2024-02-6T11:11:11-07:00
 
 ## Do praytell grant us *[The Answers](https://github.com/users/metavalent/projects/2)* ...
 
-[!["Think. Do."](https://raw.githubusercontent.com/metavalent/think.github.io/think/docs/assets/images/think.project.png)](https://github.com/metavalent/think.github.io/blob/ec182956eed7f071cc8b916e19e1cf485c8d6358/docs/assets/images/think.project.png)
+[!["Think. Do."](https://raw.githubusercontent.com/metavalent/think.github.io/think/docs/assets/images/think.project.png)](https://github.com/users/metavalent/projects/2)
     
 ## <a href="https://chat.openai.com/g/g-ntz3gLo81-oh-great-and-powerful-awes" target="_blank">Oh Great and Powerful Awes!</a>
 
