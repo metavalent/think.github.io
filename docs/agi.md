@@ -11,11 +11,11 @@ modified: 2024-02-6T11:11:11-07:00
 
 ## Do praytell grant us *[The Answers](https://github.com/users/metavalent/projects/2)* ...
 
-[!["Think. Do."](https://github.com/metavalent/think.github.io/blob/think/docs/assets/images/think.project.png)](https://github.com/metavalent/think.github.io/blob/ec182956eed7f071cc8b916e19e1cf485c8d6358/docs/assets/images/think.project.png)
+[!["Think. Do."](https://raw.githubusercontent.com/metavalent/think.github.io/think/docs/assets/images/think.project.png)](https://github.com/metavalent/think.github.io/blob/ec182956eed7f071cc8b916e19e1cf485c8d6358/docs/assets/images/think.project.png)
     
 ## <a href="https://chat.openai.com/g/g-ntz3gLo81-oh-great-and-powerful-awes" target="_blank">Oh Great and Powerful Awes!</a>
 
-[!["Oh Great & Powerful Awes!"](https://github.com/metavalent/think.github.io/blob/654ba4ccc08da5d9aa64dadcff53c07dd6718e19/docs/assets/images/oh.great.awes.png)](https://chat.openai.com/g/g-ntz3gLo81-oh-great-and-powerful-awes)
+[!["Oh Great & Powerful Awes!"](https://raw.githubusercontent.com/metavalent/think.github.io/654ba4ccc08da5d9aa64dadcff53c07dd6718e19/docs/assets/images/oh.great.awes.png)](https://chat.openai.com/g/g-ntz3gLo81-oh-great-and-powerful-awes)
     
 ### Oh Great and Powerful Awes!
 #### Trained on [all metavalent content](https://metavalent.com/) since 2004.
