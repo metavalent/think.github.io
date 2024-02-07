@@ -18,4 +18,4 @@ modified: 2024-02-6T11:11:11-07:00
 <a href="https://chat.openai.com/g/g-ntz3gLo81-oh-great-and-powerful-awes" target="_blank"><img src="https://github.com/metavalent/think.github.io/blob/think/docs/assets/images/oh.great.awes.png" /></a>
 
 ### Oh Great and Powerful Awes!
-#### Trained on <a href="https://metavalent.com/">all metavalent content since 2004</a>.
+#### Trained on <a href="https://metavalent.com/">all metavalent content</a> since 2004.
