@@ -3,8 +3,8 @@ layout: default
 published: true
 author: metavalent
 categories: metavalent, agi, global cognition grid
-tags: ai, think, llm, metavalent
-permalink: /home/
+tags: ai, agi, think, llm, metavalent
+permalink: /agi/
 created: 2024-02-6T11:11:11-07:00
 modified: 2024-02-6T11:11:11-07:00
 ---
