@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: default
 published: true
 author: metavalent
 categories: metavalent, agi, global cognition grid
 tags: ai, think, llm, metavalent
 permalink: https://think.metavalent.com/
+created: 2024-02-6T20:20:20-07:00
+modified: 2024-02-6T20:20:20-07:00
 ---
 
 <h1>Praytell grant us <a href="https://github.com/users/metavalent/projects/2" target="_blank">The Answers</a> ...</h1>
